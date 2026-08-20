@@ -4,7 +4,7 @@
 
 I build production-ready platforms with business-oriented architectures – from websites and backend services to microservices and LLM-powered solutions. I also ship desktop software for Windows, Linux, and macOS. Open to full-time, contract, and project work worldwide.
 
-[artemeus.com](https://artemeus.com) · [X](https://x.com/artemskir) · [LinkedIn](https://www.linkedin.com/in/artemskir) · [Telegram](https://t.me/artemskir) · [artemsskir@gmail.com](mailto:artemsskir@gmail.com)
+[artemskir.com](https://artemskir.com) · [X](https://x.com/artemskir) · [LinkedIn](https://www.linkedin.com/in/artemskir) · [Telegram](https://t.me/artemskir) · [artemsskir@gmail.com](mailto:artemsskir@gmail.com)
 
 ---
 
